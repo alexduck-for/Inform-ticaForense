@@ -1,2 +1,2 @@
-# Inform-ticaForense
+# InformáticaForense
 Artículos relacionados a la Informática Forense 
